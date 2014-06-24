@@ -15,3 +15,5 @@ before_script:
 script: 
   - bundle exec rake secure_pipeline:network_attack
   - bundle exec rake secure_pipeline:ssl_attack
+  
+  
